@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Modulo-API\\Modulo-API.csproj": {}
+    "C:\\Users\\Micro\\OneDrive\\Pessoais\\Certificados e formações\\2024\\BootcampXPDEV\\ProjetoAPI\\Modulo-API\\Modulo-API.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Modulo-API\\Modulo-API.csproj": {
+    "C:\\Users\\Micro\\OneDrive\\Pessoais\\Certificados e formações\\2024\\BootcampXPDEV\\ProjetoAPI\\Modulo-API\\Modulo-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Modulo-API\\Modulo-API.csproj",
+        "projectUniqueName": "C:\\Users\\Micro\\OneDrive\\Pessoais\\Certificados e formações\\2024\\BootcampXPDEV\\ProjetoAPI\\Modulo-API\\Modulo-API.csproj",
         "projectName": "Modulo-API",
-        "projectPath": "C:\\Projetos\\Modulo-API\\Modulo-API.csproj",
-        "packagesPath": "C:\\Users\\FamiliaAgro\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Modulo-API\\obj\\",
+        "projectPath": "C:\\Users\\Micro\\OneDrive\\Pessoais\\Certificados e formações\\2024\\BootcampXPDEV\\ProjetoAPI\\Modulo-API\\Modulo-API.csproj",
+        "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Micro\\OneDrive\\Pessoais\\Certificados e formações\\2024\\BootcampXPDEV\\ProjetoAPI\\Modulo-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\FamiliaAgro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -71,12 +71,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.8, 8.0.8]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -85,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

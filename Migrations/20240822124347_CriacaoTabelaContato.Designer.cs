@@ -11,7 +11,7 @@ using Modulo_API.Context;
 namespace Modulo_API.Migrations
 {
     [DbContext(typeof(AgendaContext))]
-    [Migration("20240822032344_CriacaoTabelaContato")]
+    [Migration("20240822124347_CriacaoTabelaContato")]
     partial class CriacaoTabelaContato
     {
         /// <inheritdoc />
