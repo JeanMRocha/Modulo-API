@@ -31,3 +31,4 @@ C:\Projetos\Modulo-API\obj\Debug\net8.0\refint\Modulo-API.dll
 C:\Projetos\Modulo-API\obj\Debug\net8.0\Modulo-API.pdb
 C:\Projetos\Modulo-API\obj\Debug\net8.0\Modulo-API.genruntimeconfig.cache
 C:\Projetos\Modulo-API\obj\Debug\net8.0\ref\Modulo-API.dll
+C:\Projetos\Modulo-API\obj\Debug\net8.0\Modulo-API.sourcelink.json
